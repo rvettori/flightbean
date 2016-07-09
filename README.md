@@ -1,4 +1,4 @@
-# What is Flight?
+# What is FlightBean?
 
 It's a small code to use [Flight](http://flightphp.com) with [RedBeanPhp](http://redbeanphp.com) and
 provide an prototype of your api rest.
@@ -25,6 +25,7 @@ PUT|POST|GET /api/<tablename>/<id>
 The application will create your tables and fields at database.
 
 [Learn more about Flight PHP](http://flightphp.com/learn)
+
 [Learn more about Flight PHP](http://redbeanphp.com)
 
 # Installation
