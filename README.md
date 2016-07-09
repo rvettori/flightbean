@@ -26,7 +26,7 @@ The application will create your tables and fields at database.
 
 [Learn more about Flight PHP](http://flightphp.com/learn)
 
-[Learn more about Flight PHP](http://redbeanphp.com)
+[Learn more about RedBean PHP](http://redbeanphp.com)
 
 # Installation
 
